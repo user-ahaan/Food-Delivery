@@ -16,14 +16,17 @@ cd Food-Delivery
 
 # Backend setup
 cd backend
+<br>
 npm install
 
 # Frontend setup
 cd ../frontend
+<br>
 npm install
 
 # Admin setup
 cd ../admin
+<br>
 npm install
 
 ## Run Application
