@@ -11,6 +11,7 @@ Food delivery app with React frontend, admin panel, and Node.js backend.
 
 # Clone repository
 git clone https://github.com/user-ahaan/Food-Delivery.git
+<br>
 cd Food-Delivery
 
 # Backend setup
