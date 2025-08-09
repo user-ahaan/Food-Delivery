@@ -1,0 +1,98 @@
+========================================
+    INGREDINE - FOOD DELIVERY PROJECT
+========================================
+
+🍕 Complete Food Delivery Application with React Frontend, Admin Panel, and Node.js Backend
+
+========================================
+📋 PROJECT STRUCTURE
+========================================
+
+Food-Delivery-main/
+├── backend/          (Node.js + Express + MongoDB)
+├── frontend/         (React Customer App)
+├── admin/            (React Admin Panel)
+└── PROJECT_SETUP.txt (This file)
+
+========================================
+🚀 HOW TO RUN THE PROJECT
+========================================
+
+Terminal 1 - Backend (API Server):
+   cd backend
+   npm run dev
+   
+Terminal 2 - Frontend (Customer App):
+   cd frontend
+   npm run dev
+   
+Terminal 3 - Admin Panel:
+   cd admin
+   npm run dev
+
+========================================
+🔐 USER CREDENTIALS
+========================================
+
+CUSTOMER ACCOUNTS:
+==================
+1. Alex Rodriguez
+   Email: alex@gmail.com
+   Password: alex123
+
+2. Sarah Johnson
+   Email: sarah@gmail.com
+   Password: sarah123
+
+3. Michael Chen
+   Email: michael@gmail.com
+   Password: michael123
+
+4. Emma Wilson
+   Email: emma@gmail.com
+   Password: emma123
+
+========================================
+🗄️ DATABASE INFORMATION
+========================================
+
+Database: MongoDB Atlas
+Collections: users, foods, orders
+
+FOOD CATEGORIES (4+ items each):
+- Pizza (4 items)
+- Burger (4 items)
+- Sandwich (4 items)
+- Rolls (4 items)
+- Pasta (4 items)
+- Noodles (4 items)
+- Dessert (4 items)
+- Beverage (4 items)
+- Pure Veg (4 items)
+
+Total: 36 food items across 9 categories
+
+========================================
+✨ FEATURES
+========================================
+
+CUSTOMER FEATURES:
+- User Registration & Login
+- Browse Food Items by Category
+- Add/Remove Items from Cart
+- Place Orders
+- Order History
+- Stripe Payment Integration
+
+ADMIN FEATURES:
+- Add/Edit Food Items
+- Manage Orders
+- View Order Statistics
+- Upload Food Images
+
+BACKEND FEATURES:
+- RESTful API
+- JWT Authentication
+- MongoDB Integration
+- File Upload Support
+- CORS Enabled
